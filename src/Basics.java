@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class l1 {
+public class Basics {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         //System.in refers to the keyboard input

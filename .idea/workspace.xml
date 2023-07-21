@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62a0adeb-c01b-4ff5-9612-a37daef084ea" name="Changes" comment="class 1">
+    <list default="true" id="62a0adeb-c01b-4ff5-9612-a37daef084ea" name="Changes" comment="Typecasting added">
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689833904335</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Typecasting added">
+      <created>1689866945030</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689866945030</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Java added" />
     <MESSAGE value="class 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 1" />
+    <MESSAGE value="Typecasting added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typecasting added" />
   </component>
 </project>
