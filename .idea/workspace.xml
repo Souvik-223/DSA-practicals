@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62a0adeb-c01b-4ff5-9612-a37daef084ea" name="Changes" comment="Conditionals and loops added lecture 5">
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shadowing.java" afterDir="false" />
+    <list default="true" id="62a0adeb-c01b-4ff5-9612-a37daef084ea" name="Changes" comment="Functions and Methods added">
+      <change afterPath="$PROJECT_DIR$/src/Armstrong_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_of_objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable_length_arguments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Conditionals_loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditionals_loops.java" afterDir="false" />
     </list>
@@ -50,20 +51,6 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Conditionals_loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals_loops" />
-      <module name="DSA practicals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Conditionals_loops" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -101,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689949732717</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Functions and Methods added">
+      <created>1690124975156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690124975156</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +114,7 @@
     <MESSAGE value="class 1" />
     <MESSAGE value="Typecasting added" />
     <MESSAGE value="Conditionals and loops added lecture 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditionals and loops added lecture 5" />
+    <MESSAGE value="Functions and Methods added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions and Methods added" />
   </component>
 </project>
