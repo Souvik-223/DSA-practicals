@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62a0adeb-c01b-4ff5-9612-a37daef084ea" name="Changes" comment="Functions and Methods added">
-      <change afterPath="$PROJECT_DIR$/src/Armstrong_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_of_objects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variable_length_arguments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditionals_loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditionals_loops.java" afterDir="false" />
-    </list>
+    <list default="true" id="62a0adeb-c01b-4ff5-9612-a37daef084ea" name="Changes" comment="Linear search more" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +88,28 @@
       <option name="project" value="LOCAL" />
       <updated>1690124975156</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Arrays and Variable length arguments">
+      <created>1690953665096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690953665096</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Arrayslist and linear search">
+      <created>1691506720437</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691506720437</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Linear search more">
+      <created>1691511487652</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691511487652</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +129,9 @@
     <MESSAGE value="Typecasting added" />
     <MESSAGE value="Conditionals and loops added lecture 5" />
     <MESSAGE value="Functions and Methods added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functions and Methods added" />
+    <MESSAGE value="Arrays and Variable length arguments" />
+    <MESSAGE value="Arrayslist and linear search" />
+    <MESSAGE value="Linear search more" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linear search more" />
   </component>
 </project>
