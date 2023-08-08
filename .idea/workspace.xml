@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62a0adeb-c01b-4ff5-9612-a37daef084ea" name="Changes" comment="Linear search more" />
+    <list default="true" id="62a0adeb-c01b-4ff5-9612-a37daef084ea" name="Changes" comment="Folder change">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Questions/leetcode_1295.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691511487652</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Folder change">
+      <created>1691517729590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691517729590</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +142,8 @@
     <MESSAGE value="Arrays and Variable length arguments" />
     <MESSAGE value="Arrayslist and linear search" />
     <MESSAGE value="Linear search more" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linear search more" />
+    <MESSAGE value="Folder chnage" />
+    <MESSAGE value="Folder change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Folder change" />
   </component>
 </project>
