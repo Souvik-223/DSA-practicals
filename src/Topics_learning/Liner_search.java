@@ -1,3 +1,5 @@
+package Topics_learning;
+
 public class Liner_search {
     public static void main(String[] args) {
         // Linear search is searching one by one.

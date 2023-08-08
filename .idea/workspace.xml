@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62a0adeb-c01b-4ff5-9612-a37daef084ea" name="Changes" comment="Arrayslist and linear search">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Liner_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Liner_search.java" afterDir="false" />
-    </list>
+    <list default="true" id="62a0adeb-c01b-4ff5-9612-a37daef084ea" name="Changes" comment="Linear search more" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691506720437</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Linear search more">
+      <created>1691511487652</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691511487652</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +131,7 @@
     <MESSAGE value="Functions and Methods added" />
     <MESSAGE value="Arrays and Variable length arguments" />
     <MESSAGE value="Arrayslist and linear search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrayslist and linear search" />
+    <MESSAGE value="Linear search more" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linear search more" />
   </component>
 </project>
